@@ -63,7 +63,7 @@ namespace SaleorSync
 
             IncrementalCopyTable(@"SELECT id,created,tracking_client_id,user_email,token,billing_address_id,shipping_address_id,user_id,total_net_amount,discount_amount,
                 discount_name,voucher_id,language_code,shipping_price_gross_amount,total_gross_amount,shipping_price_net_amount,status,shipping_method_name,
-                shipping_method_id,display_gross_prices,translated_discount_name,customer_note,weight,checkout_token,currency,external_lab_id,updated FROM order_order",
+                shipping_method_id,display_gross_prices,translated_discount_name,customer_note,weight,checkout_token,currency,external_lab_id,updated,external_lab_order_id FROM order_order",
                "Insert into s_saleor_order Select * from @t", "t_saleor_order", getLastUpdated("saleor_order"));
 
 

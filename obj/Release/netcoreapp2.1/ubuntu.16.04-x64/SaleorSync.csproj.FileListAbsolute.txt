@@ -1,0 +1,15 @@
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\libhostpolicy.so
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\libhostfxr.so
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\App.config
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.dll.config
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.deps.json
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.runtimeconfig.json
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.runtimeconfig.dev.json
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.dll
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.pdb
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.csprojAssemblyReference.cache
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.AssemblyInfoInputs.cache
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.AssemblyInfo.cs
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.dll
+d:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Release\netcoreapp2.1\ubuntu.16.04-x64\SaleorSync.pdb

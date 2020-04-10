@@ -1,0 +1,12 @@
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\App.config
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.dll.config
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.deps.json
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.runtimeconfig.json
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.runtimeconfig.dev.json
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.dll
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\bin\Debug\netcoreapp2.1\SaleorSync.pdb
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Debug\netcoreapp2.1\SaleorSync.csprojAssemblyReference.cache
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Debug\netcoreapp2.1\SaleorSync.AssemblyInfoInputs.cache
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Debug\netcoreapp2.1\SaleorSync.AssemblyInfo.cs
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Debug\netcoreapp2.1\SaleorSync.dll
+D:\Users\mphza\Documents\Visual Studio 2019\Projects\SaleorSync\obj\Debug\netcoreapp2.1\SaleorSync.pdb
